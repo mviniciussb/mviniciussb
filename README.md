@@ -1,11 +1,11 @@
-## 🚀 Sobre mim
+### 🚀 About me
 
-Olá, me chamo Marcos Vinicius e sou um desenvolvedor web.
+Hello, my name is Marcos Vinicius, I'm 23 years old, and I'm a web developer. I'm looking for my first job in the area, as working in this field is my greatest desire.
 
-## 🛠 Habilidades
+### 🛠 Skills
 Javascript, HTML e CSS
 
 
-🧠 Estou aprendendo Javascript no momento...
+I'm learning Javascript at the moment... 🧠
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mviniciussb/))
