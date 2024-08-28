@@ -1,10 +1,10 @@
-### 🚀 Sobre mim
+### 🚀 About me
 
-Olá, meu nome é Marcos Vinicius, tenho 23 anos e sou desenvolvedor web. Estou em busca do meu primeiro emprego na área.
+Hello, my name is Marcos Vinicius, I'm 23 years old and I'm a web developer. I'm looking for my first job in the field.
 
-### 🛠 Habilidades
+### 🛠 Skills
 
-Javascript 
+JavaScript 
 Node.js 
 Figma
 Canva
@@ -14,6 +14,6 @@ HTML
 CSS
 
 
-Estou me aperfeiçoando em Javascript no momento... 🧠
+I'm improving my skills in Javascript at the moment... 🧠
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mviniciussb/ )
