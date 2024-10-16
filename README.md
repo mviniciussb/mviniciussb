@@ -6,12 +6,14 @@ Hello, my name is Marcos Vinicius, I'm 23 years old and I'm a web developer. I'm
 
  - JavaScript (React)
  - Node.js (Express)
+ - CSS (CSS in JSS & SASS)
+ - HTML
+ 
  - Figma
  - Canva
  - Git 
  - Github 
- - HTML
- - CSS (CSS in JSS & SASS)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mviniciussb&layout=compact&theme=dark)
 
