@@ -5,10 +5,10 @@ Hi there! I'm Marcos Vinícius, a passionate Web Developer with a focus on creat
 
 I have hands-on experience with:
 
-**Frontend**: HTML, CSS, JavaScript, React, Vite
-**Backend**: Node.js, Express
-**Database**: SQLite, MySQL
-**Version Control**: Git & GitHub
+- **Frontend**: HTML, CSS, JavaScript, React, Vite
+- **Backend**: Node.js, Express
+- **Database**: SQLite, MySQL
+- **Version Control**: Git & GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,,react,vite,,sqlite,nodejs,express,,github,git,)](https://skillicons.dev)
 
