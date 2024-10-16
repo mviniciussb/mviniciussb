@@ -13,7 +13,7 @@ Github
 HTML
 CSS (CSS in JSS & SASS)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mviniciussb&layout=compact)
 
-I'm improving my skills in React at the moment... 🧠
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mviniciussb/ )
