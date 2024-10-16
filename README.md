@@ -11,7 +11,7 @@ Canva
 Git 
 Github 
 HTML
-CSS (CSS in JSS & SASS
+CSS (CSS in JSS & SASS)
 
 
 I'm improving my skills in React at the moment... 🧠
