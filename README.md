@@ -4,7 +4,7 @@ Hello, my name is Marcos Vinicius, I'm 23 years old and I'm a web developer. I'm
 
 ### 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,vite,sqlite,nodejs,express,,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,,sass,,react,vite,,sqlite,nodejs,express,,github,git,)](https://skillicons.dev)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mviniciussb&layout=compact&theme=dark)
 
 
