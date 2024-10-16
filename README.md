@@ -10,7 +10,7 @@ I have hands-on experience with:
 - **Database**: SQLite, MySQL
 - **Version Control**: Git & GitHub
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,,sqlite,nodejs,express,,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,,sqlite,mysql,nodejs,express,,github,git,)](https://skillicons.dev)
 
 
 
